@@ -1,6 +1,6 @@
-# ShopEase-Team-Project
+## ShopEase-Team-Project
 
-# ShopEase – Online Product & Order Management System
+## ShopEase – Online Product & Order Management System
 
 ##  Project Overview
 ShopEase is a web-based platform designed to manage online products, customers, and orders efficiently.  
